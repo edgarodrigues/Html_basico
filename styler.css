@@ -1,0 +1,21 @@
+ header {
+   background-color:rgb(170, 59, 15);
+   font-size: 50pt; 
+   color: beige;
+   text-align: center;
+
+    }
+    main {
+    background-color:rgb(62, 170, 197);
+    font-size: 30pt;
+    color:black;
+    text-align:center;
+    
+    }
+    footer {
+    background-color:rgb(201, 168, 126);
+    font-size: 30pt;
+    color:black;
+    text-align:center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
